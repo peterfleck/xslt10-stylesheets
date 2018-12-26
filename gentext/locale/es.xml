@@ -85,6 +85,8 @@
 <gentext key="note" text="nota"/>
 <gentext key="Part" text="Parte"/>
 <gentext key="part" text="parte"/>
+<gentext key="Poetry" text="Poesía"/>
+<gentext key="poetry" text="poesía"/>
 <gentext key="Preface" text="Prefacio"/>
 <gentext key="preface" text="prefacio"/>
 <gentext key="Procedure" text="Procedimiento"/>
