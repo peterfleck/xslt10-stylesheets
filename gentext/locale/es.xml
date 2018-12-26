@@ -52,6 +52,7 @@
 <gentext key="drama" text="Drama"/>
 <gentext key="Edition" text="Edición"/>
 <gentext key="edition" text="edición"/>
+<gentext key="Editor" text="Editor"/>
 <gentext key="Equation" text="Ecuación"/>
 <gentext key="equation" text="ecuación"/>
 <gentext key="Example" text="Ejemplo"/>
