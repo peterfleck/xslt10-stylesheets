@@ -151,6 +151,7 @@
 <gentext key="and" text="y"/>
 <gentext key="or" text="o"/>
 <gentext key="by" text="por"/>
+<gentext key="optional-step" text="(Opcional) "/>
 <gentext key="Edited" text="Editado"/>
 <gentext key="edited" text="editado"/>
 <gentext key="Editedby" text="Editado por"/>
