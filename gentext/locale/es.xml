@@ -46,6 +46,8 @@
 <gentext key="copyright" text="copyright"/>
 <gentext key="Dedication" text="Dedicatoria"/>
 <gentext key="dedication" text="dedicatoria"/>
+<gentext key="Dialogue" text="Diálogo"/>
+<gentext key="dialogue" text="diálogo"/>
 <gentext key="Edition" text="Edición"/>
 <gentext key="edition" text="edición"/>
 <gentext key="Equation" text="Ecuación"/>
