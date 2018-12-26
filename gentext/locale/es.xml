@@ -173,6 +173,9 @@
 <gentext key="unexpectedelementname" text="nombre de elemento inesperado"/>
 <gentext key="unsupported" text="no soportado"/>
 <gentext key="xrefto" text="referencia a"/>
+<l:gentext key="video-unsupported" text="Su navegador no soporta la etiqueta de vídeo"/>
+<l:gentext key="audio-unsupported" text="Su navegador no soporta la etiqueta de audio"/>
+
 
 <!-- * Sometimes we need to generate a plural "Authors" title; for example, -->
 <!-- * in a man page AUTHORS section which lists multiple authors -->
