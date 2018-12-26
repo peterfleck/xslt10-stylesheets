@@ -48,6 +48,8 @@
 <gentext key="dedication" text="dedicatoria"/>
 <gentext key="Dialogue" text="Diálogo"/>
 <gentext key="dialogue" text="diálogo"/>
+<gentext key="Drama" text="Drama"/>
+<gentext key="drama" text="Drama"/>
 <gentext key="Edition" text="Edición"/>
 <gentext key="edition" text="edición"/>
 <gentext key="Equation" text="Ecuación"/>
